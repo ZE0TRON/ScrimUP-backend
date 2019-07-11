@@ -1,0 +1,9 @@
+{
+  "extends": [
+      "google",
+      "plugin:prettier/recommended"
+  ],
+  "parserOptions": {
+      "ecmaVersion": 2017
+    }
+}

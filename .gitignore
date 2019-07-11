@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+.DS_Store
+test_data/team/sids.txt
+test_data/team/tsids.txt
+test_data/State/**
+.env.live
+build/

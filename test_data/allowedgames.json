@@ -1,0 +1,75 @@
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9bc"), 
+    "name" : "Apex Legends", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9bd"), 
+    "name" : "Brawl Stars", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9be"), 
+    "name" : "CS:GO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9bf"), 
+    "name" : "Dota 2", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c0"), 
+    "name" : "Fortnite", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c1"), 
+    "name" : "League Of Legends", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c2"), 
+    "name" : "OnwardVR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c3"), 
+    "name" : "Overwatch", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c4"), 
+    "name" : "Path Of Exile", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c5"), 
+    "name" : "Pubg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c6"), 
+    "name" : "Rocket League", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c7"), 
+    "name" : "World Of Warcraft", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c8"), 
+    "name" : "Board Games", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9c9"), 
+    "name" : "Business", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9cc1dfc8807e7bfaaaf9ca"), 
+    "name" : "Other", 
+    "__v" : NumberInt(0)
+}
