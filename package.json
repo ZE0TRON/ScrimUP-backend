@@ -17,7 +17,7 @@
   "dependencies": {
     "@sendgrid/mail": "^6.3.1",
     "@types/express": "^4.16.1",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "chai": "^4.1.2",
     "connect-mongo": "^2.0.3",
