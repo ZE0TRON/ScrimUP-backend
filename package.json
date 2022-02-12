@@ -63,7 +63,7 @@
     "@types/node": "^12.0.4",
     "@types/node-schedule": "^1.2.3",
     "@types/passport": "^1.0.0",
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "eslint-config-google": "^0.9.1",
     "jest": "^24.7.1",
     "jest-worker": "^24.6.0",
